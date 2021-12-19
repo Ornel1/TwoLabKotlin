@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwoLabKotlin</string>
+    <string name="temperature_now">Temperature Now</string>
+    <string name="list_citys_temp">List citys temp</string>
+    <string name="city">city</string>
+    <string name="temp">temp</string>
+</resources>
